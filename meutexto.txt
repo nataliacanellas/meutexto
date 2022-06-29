@@ -2,3 +2,4 @@ Meu sonho é:
 
 Ser capaz de desenvolver aplicativos que sejam visualmente bonitos, bem completos e que tenham funcionalidade e acessibilidade.
 Quero desenvolver inicialmente um aplicativo de compras online, e depois um aplicativo que indique filmes e séries para o usuário. 
+Você está no caminho certo, começando pelo curso de Flutter
